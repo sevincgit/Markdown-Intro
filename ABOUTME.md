@@ -18,16 +18,16 @@ Currently participating in the WIT - Reskilling Program to become a mobile devel
 
 ### 10 Movies That I Watched Recently
 
-1. [The Worst Person In The World]()
-2. [The Criminals]()
-3. [The New Kid]()
-4. [The Recorder Exam]()
-5. [Honeyland]()
-6. [Microhabitat]()
-7. [Shiva Baby]()
-8. [Arab Blues]()
-9. [Parallel Mothers]()
-10. [The Human Voice]()
+1. [The Worst Person In The World](https://www.rottentomatoes.com/m/the_worst_person_in_the_world)
+2. [The Criminals](https://www.imdb.com/title/tt13224590/)
+3. [The New Kid](https://www.imdb.com/title/tt3814316/?ref_=fn_al_tt_1)
+4. [The Recorder Exam](https://www.imdb.com/title/tt1961589/?ref_=fn_al_tt_1)
+5. [Honeyland](https://www.imdb.com/title/tt8991268/?ref_=fn_al_tt_1)
+6. [Microhabitat](https://www.imdb.com/title/tt8191502/?ref_=fn_al_tt_1)
+7. [Shiva Baby](https://www.imdb.com/title/tt11317142/?ref_=fn_al_tt_1)
+8. [Arab Blues](https://www.imdb.com/title/tt9648886/?ref_=fn_al_tt_1)
+9. [Parallel Mothers](https://www.imdb.com/title/tt12618926/?ref_=fn_al_tt_1)
+10. [The Human Voice](https://www.imdb.com/title/tt11760792/?ref_=fn_al_tt_1)
 
 ### My Top 10 Songs Recently
 
